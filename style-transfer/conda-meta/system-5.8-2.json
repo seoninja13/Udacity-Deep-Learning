@@ -1,0 +1,31 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.continuum.io/pkgs/free/linux-64",
+  "date": "2015-03-04",
+  "depends": [],
+  "files": [
+    "lib/libgfortran.so.1",
+    "lib/libgfortran.so.1.0.0"
+  ],
+  "fn": "system-5.8-2.tar.bz2",
+  "license_family": "GPL2",
+  "link": {
+    "source": "/home/ninja13/anaconda3/pkgs/system-5.8-2",
+    "type": 1
+  },
+  "md5": "2d34ef0cfab944d5d3e160e64195d82a",
+  "name": "system",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 0,
+  "requires": [],
+  "schannel": "defaults",
+  "size": 174210,
+  "url": "https://repo.continuum.io/pkgs/free/linux-64/system-5.8-2.tar.bz2",
+  "version": "5.8",
+  "with_features_depends": {}
+}

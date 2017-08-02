@@ -1,0 +1,28 @@
+==> 2017-08-02 11:04:19 <==
+# cmd: /home/ninja13/anaconda3/bin/conda create -n style-transfer python=2.7.9
++defaults::openssl-1.0.1k-1
++defaults::pip-9.0.1-py27_1
++defaults::python-2.7.9-3
++defaults::readline-6.2-2
++defaults::setuptools-27.2.0-py27_0
++defaults::sqlite-3.13.0-0
++defaults::system-5.8-2
++defaults::tk-8.5.18-0
++defaults::wheel-0.29.0-py27_0
++defaults::zlib-1.2.8-3
+# create specs: python 2.7.9*
+==> 2017-08-02 11:07:31 <==
+# cmd: /home/ninja13/anaconda3/envs/style-transfer/bin/conda install scipy pillow
++defaults::freetype-2.5.5-2
++defaults::jbig-2.1-0
++defaults::jpeg-9b-0
++defaults::libgfortran-3.0.0-1
++defaults::libpng-1.6.27-0
++defaults::libtiff-4.0.6-3
++defaults::mkl-2017.0.3-0
++defaults::numpy-1.13.1-py27_0
++defaults::olefile-0.44-py27_0
++defaults::pillow-4.2.1-py27_0
++defaults::scipy-0.19.1-np113py27_0
++defaults::xz-5.2.2-1
+# install specs: scipy,pillow

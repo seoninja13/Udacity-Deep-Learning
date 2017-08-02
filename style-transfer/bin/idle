@@ -1,0 +1,5 @@
+#!/home/ninja13/anaconda3/envs/style-transfer/bin/python
+
+from idlelib.PyShell import main
+if __name__ == '__main__':
+    main()

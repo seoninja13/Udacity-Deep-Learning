@@ -1,0 +1,43 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/free/linux-64",
+  "date": "2017-01-30",
+  "depends": [
+    "python 2.7*"
+  ],
+  "files": [
+    "lib/python2.7/site-packages/OleFileIO_PL.py",
+    "lib/python2.7/site-packages/OleFileIO_PL.pyc",
+    "lib/python2.7/site-packages/olefile-0.44-py2.7.egg-info",
+    "lib/python2.7/site-packages/olefile/CONTRIBUTORS.txt",
+    "lib/python2.7/site-packages/olefile/LICENSE.txt",
+    "lib/python2.7/site-packages/olefile/README.html",
+    "lib/python2.7/site-packages/olefile/README.rst",
+    "lib/python2.7/site-packages/olefile/__init__.py",
+    "lib/python2.7/site-packages/olefile/__init__.pyc",
+    "lib/python2.7/site-packages/olefile/olefile.py",
+    "lib/python2.7/site-packages/olefile/olefile.pyc"
+  ],
+  "fn": "olefile-0.44-py27_0.tar.bz2",
+  "license": "BSD License",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/ninja13/anaconda3/pkgs/olefile-0.44-py27_0",
+    "type": 1
+  },
+  "md5": "759a2dcd661c5fe2ad81566f549a83a8",
+  "name": "olefile",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 53236,
+  "subdir": "linux-64",
+  "url": "https://repo.continuum.io/pkgs/free/linux-64/olefile-0.44-py27_0.tar.bz2",
+  "version": "0.44",
+  "with_features_depends": {}
+}

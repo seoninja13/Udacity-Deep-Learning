@@ -1,0 +1,5 @@
+#!/home/ninja13/anaconda3/envs/style-transfer/bin/python
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
