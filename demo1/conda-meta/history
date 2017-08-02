@@ -1,0 +1,35 @@
+==> 2017-08-01 19:51:35 <==
+# cmd: /home/ninja13/anaconda3/envs/Project1/bin/conda create -y -q --json -n demo1 python=3 ipykernel
++defaults::decorator-4.1.2-py36_0
++defaults::ipykernel-4.6.1-py36_0
++defaults::ipython-6.1.0-py36_0
++defaults::ipython_genutils-0.2.0-py36_0
++defaults::jedi-0.10.2-py36_2
++defaults::jupyter_client-5.1.0-py36_0
++defaults::jupyter_core-4.3.0-py36_0
++defaults::libsodium-1.0.10-0
++defaults::openssl-1.0.2l-0
++defaults::path.py-10.3.1-py36_0
++defaults::pexpect-4.2.1-py36_0
++defaults::pickleshare-0.7.4-py36_0
++defaults::pip-9.0.1-py36_1
++defaults::prompt_toolkit-1.0.14-py36_0
++defaults::ptyprocess-0.5.2-py36_0
++defaults::pygments-2.2.0-py36_0
++defaults::python-3.6.2-0
++defaults::python-dateutil-2.6.1-py36_0
++defaults::pyzmq-16.0.2-py36_0
++defaults::readline-6.2-2
++defaults::setuptools-27.2.0-py36_0
++defaults::simplegeneric-0.8.1-py36_1
++defaults::six-1.10.0-py36_0
++defaults::sqlite-3.13.0-0
++defaults::tk-8.5.18-0
++defaults::tornado-4.5.1-py36_0
++defaults::traitlets-4.3.2-py36_0
++defaults::wcwidth-0.1.7-py36_0
++defaults::wheel-0.29.0-py36_0
++defaults::xz-5.2.2-1
++defaults::zeromq-4.1.5-0
++defaults::zlib-1.2.8-3
+# create specs: python 3*,ipykernel

@@ -1,0 +1,8 @@
+#!/home/ninja13/anaconda3/envs/Project1/bin/python
+
+def main():
+    from nbformat.sign import TrustNotebookApp
+    TrustNotebookApp.launch_instance()
+
+if __name__ == '__main__':
+    main()
